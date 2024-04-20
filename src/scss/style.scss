@@ -1,0 +1,10 @@
+//base styles
+@import './base/variables.scss';
+@import './base/reboot';
+
+//global styles
+@import './global/header.scss';
+@import './global/footer.scss';
+
+//pages styles
+@import './pages/home.scss';
